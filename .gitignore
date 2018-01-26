@@ -1,0 +1,7 @@
+# for java
+*.class
+*.log
+
+# for gradle
+build/
+/.gradle
