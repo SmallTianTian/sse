@@ -1,0 +1,17 @@
+retry: 10
+id: utf8
+event: english
+data: this is a english event.
+
+: skip this
+
+id: gbk
+event: chinese
+data: 这是一个中文事件。
+
+: skip this
+
+id: default
+data: this is a default message event.
+
+: skip this

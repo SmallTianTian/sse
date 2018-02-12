@@ -1,0 +1,8 @@
+id,event,content
+,retry,10
+utf8,english,this is a english event.
+,comment,skip this
+gbk,chinese,这是一个中文事件。
+,comment,skip this
+default,,this is a default message event.
+,comment,skip this
